@@ -2,3 +2,6 @@ This repo contains my recommender systems notebooks. In order to see the trainin
 
 the link for each notebook:
 
+deep recommender system :
+
+https://colab.research.google.com/drive/10i3CsIcbUPmMxBAMAIpDRZEjub5ODnHk?usp=sharing
